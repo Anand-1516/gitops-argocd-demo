@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/<YOU>/gitops-argocd-demo.git'
+    repoURL: 'https://github.com/Anand-1516/gitops-argocd-demo.git'
     targetRevision: main
     path: k8s/overlays/prod
   destination:
